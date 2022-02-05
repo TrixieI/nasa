@@ -1,0 +1,14 @@
+.rover img {
+  width: 400px;
+  height: 400px;
+}
+
+.rover {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 1rem;
+  background-color: rgba(4, 4, 4, 0.694);
+  color: white;
+}

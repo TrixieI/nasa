@@ -1,0 +1,14 @@
+.info {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+.info p {
+  margin: 2rem 5rem;
+}
+
+.apod img {
+  width: 80%;
+  height: 80%;
+}
